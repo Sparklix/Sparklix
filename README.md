@@ -1,7 +1,7 @@
 ## Hi there，Welcome
 
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=Sparklix&show_icons=true&theme=tokyonight)![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sparklix&theme=tokyonight)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=Sparklix&show_icons=true)![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sparklix)
 
 
 If you have any advice or just wanna talk sth for game or alogrithm with me just mail me. <br><br>
